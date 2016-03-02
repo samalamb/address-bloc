@@ -105,4 +105,8 @@ class MenuController
 
   end
 
+  def empty
+
+  end
+
 end
