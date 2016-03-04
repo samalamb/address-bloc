@@ -73,7 +73,6 @@ class AddressBook
         index += 1
       end
     end
-
     return nil
   end
 
